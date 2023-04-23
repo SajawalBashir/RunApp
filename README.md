@@ -1,4 +1,4 @@
-# RunApp Concepts
+# RunApp Concepts 
 
 - MVVM Architecture
 - Room Database
@@ -10,3 +10,4 @@
 - BottomNavigation 
 - RecyclerView etc
 
+App Video -> https://youtu.be/R7dmrCguXmA
